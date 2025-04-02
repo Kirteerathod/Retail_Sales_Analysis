@@ -36,25 +36,22 @@ OpenStreetMap: For location-based insights.
 1. Advanced Data Insights
 Predictive Analytics: Implement forecasting models to predict future sales trends using historical data.
 
-Customer Segmentation: Integrate customer demographics to analyze purchasing patterns by age, gender, or location.
+2.Customer Segmentation: Integrate customer demographics to analyze purchasing patterns by age, gender, or location.
 
-2. Enhanced Visualizations
+3. Enhanced Visualizations
 Drill-Down Capabilities: Enable deeper analysis by allowing users to click on regions/categories for more detailed breakdowns.
 
-Dynamic Trend Analysis: Add trend lines and seasonality insights to better understand peak and slow sales periods.
+4. Dynamic Trend Analysis: Add trend lines and seasonality insights to better understand peak and slow sales periods.
 
-3. Real-Time Data Integration
+5. Real-Time Data Integration
 Live Data Connection: Connect the dashboard to live databases for real-time updates on sales performance.
 
-API Integration: Fetch external data (e.g., economic indicators, competitor prices) to provide contextual insights.
+6. API Integration: Fetch external data (e.g., economic indicators, competitor prices) to provide contextual insights.
 
-4. Performance Optimization
+7. Performance Optimization
 Dashboard Speed Improvement: Optimize data queries and reduce load times for a smoother user experience.
 
-Mobile-Friendly Views: Ensure compatibility with mobile devices for accessibility on the go.
-
-5. Expanded Metrics & KPIs
-Customer Retention Metrics: Track repeat customers and customer lifetime value (CLV).
+8.Mobile-Friendly Views: Ensure compatibility with mobile devices for accessibility on the go.
 
 
 

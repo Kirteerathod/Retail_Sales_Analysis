@@ -19,3 +19,15 @@ Monthly Trends: Identify seasonal trends and peak sales months with interactive 
 
 Custom Filters: Adjust views by region, category, order date, and city for tailored insights.
 
+# Technology Used
+
+Tableau: For interactive data visualization.
+
+SQL: For data extraction and transformation (if applicable).
+
+Excel/CSV: For data storage and preprocessing.
+
+Mapbox: For geographic visualization.
+
+OpenStreetMap: For location-based insights.
+

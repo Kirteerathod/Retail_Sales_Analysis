@@ -53,5 +53,18 @@ Dashboard Speed Improvement: Optimize data queries and reduce load times for a s
 
 8.Mobile-Friendly Views: Ensure compatibility with mobile devices for accessibility on the go.
 
+# Data Story
+1.West and Central Achieved the Sales Target for 2018
+<img src="./retail_dashboard.png"  width=""/> &nbsp;
+
+2.NY City Was the best Performer For the Whole Period
+<img src="./retail_dashboard.png"  width=""/> &nbsp;
+
+3.September mark the highest sales in this Year.
+<img src="./retail_dashboard.png"  width=""/> &nbsp;
+
+
+
+
 
 
